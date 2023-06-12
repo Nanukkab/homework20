@@ -1,0 +1,21 @@
+body{
+    background-color: #DAA520;
+}
+.button{
+    width:293px;
+    height:228px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    margin-left: 38px;
+}
+.button1{
+    width: 228px;
+    height: 228px;
+    background-color: white;
+    border-radius: 200px;
+    border-color: white;
+    color:black;
+    margin-left: 38px;
+
+}
